@@ -2,7 +2,9 @@
 
 This is an interactive visualisation of a sinusoidal waveform changing in time.
 
-View on [rawgit](https://rawgit.com/joebentley/waveform-sine/master/index.html) :sushi:
+View on [rawgit](https://rawgit.com/UoBEdTechSTEMM/waveform-sine/master/index.html) :sushi:
+
+To embed without use the url - https://uobedtechstemm.github.io/waveform-sine/
 
 ## TODO
 
