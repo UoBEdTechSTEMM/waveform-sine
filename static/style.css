@@ -47,7 +47,11 @@ a:hover {
   margin: 2em auto;
   width: 400px;
   height: 400px;
- float: left;
+
+}
+
+#diagramContainer {
+  float: left;	
 }
 
 /* Tables */
